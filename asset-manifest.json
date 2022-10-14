@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://khushiagarwal111.github.io/csb-jkvsnv/static/css/main.2aeb9f52.chunk.css",
+    "main.js": "https://khushiagarwal111.github.io/csb-jkvsnv/static/js/main.26f8bfeb.chunk.js",
+    "main.js.map": "https://khushiagarwal111.github.io/csb-jkvsnv/static/js/main.26f8bfeb.chunk.js.map",
+    "runtime-main.js": "https://khushiagarwal111.github.io/csb-jkvsnv/static/js/runtime-main.d30bbdd7.js",
+    "runtime-main.js.map": "https://khushiagarwal111.github.io/csb-jkvsnv/static/js/runtime-main.d30bbdd7.js.map",
+    "static/js/2.a65fa413.chunk.js": "https://khushiagarwal111.github.io/csb-jkvsnv/static/js/2.a65fa413.chunk.js",
+    "static/js/2.a65fa413.chunk.js.map": "https://khushiagarwal111.github.io/csb-jkvsnv/static/js/2.a65fa413.chunk.js.map",
+    "index.html": "https://khushiagarwal111.github.io/csb-jkvsnv/index.html",
+    "static/css/main.2aeb9f52.chunk.css.map": "https://khushiagarwal111.github.io/csb-jkvsnv/static/css/main.2aeb9f52.chunk.css.map",
+    "static/js/2.a65fa413.chunk.js.LICENSE.txt": "https://khushiagarwal111.github.io/csb-jkvsnv/static/js/2.a65fa413.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d30bbdd7.js",
+    "static/js/2.a65fa413.chunk.js",
+    "static/css/main.2aeb9f52.chunk.css",
+    "static/js/main.26f8bfeb.chunk.js"
+  ]
+}
